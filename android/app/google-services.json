@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050518923341",
+    "project_id": "elca-d2ae0",
+    "storage_bucket": "elca-d2ae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050518923341:android:0a427275ece16335655404",
+        "android_client_info": {
+          "package_name": "co.appbrewery.bitcoin_ticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050518923341-hhr5bfb1k9b8a801cqref2pj1pa55li7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG5ka72XZ4ZuMjr7w9r9KwTU5k2YgJCLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050518923341-hhr5bfb1k9b8a801cqref2pj1pa55li7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
